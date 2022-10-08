@@ -1,0 +1,10 @@
+button{
+    display: flex;
+
+}
+.lists {
+    display: flex;
+}
+.age{
+    list-style-type: none;
+}
